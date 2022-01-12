@@ -1,0 +1,6 @@
+pip
+flask
+numpy
+hdbcli
+nelson_siegel_svensson
+matplotlib
